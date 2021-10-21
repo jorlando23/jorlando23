@@ -1,5 +1,5 @@
 ## Eai! Eu sou o Jorlando R.
-Atividades realizadas🤓
+Estudante de Análise e Desenvolvimento de Sistemas🤓
 
 <div align="center">
   <a href="https://github.com/jorlando23">
