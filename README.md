@@ -1,5 +1,5 @@
 ## Eai! Eu sou o Jorlando R.
-Estudante de Análise e Desenvolvimento de Sistemas🤓
+Acadêmico do curso de Análise e Desenvolvimento de Sistemas🤓
 
 <div align="center">
   <a href="https://github.com/jorlando23">
