@@ -1,5 +1,5 @@
 ## Eai! Eu sou o Jorlando R.
-Acadêmico do curso de Análise e Desenvolvimento de Sistemas 5°Semestre 🤓
+Acadêmico do curso de Análise e Desenvolvimento de Sistemas 6°Semestre 🤓
 
 <div align="center">
   <a href="https://github.com/jorlando23">
